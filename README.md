@@ -25,4 +25,4 @@ The following are the main goals that this project intends to achieve:
 * Data preparation eliminates null values from the dataset using techniques like tokenization, stemming, and lemmatization. 
 * Finally, you can experiment with a few potential models while building the model.  Compare the results of each model to determine which is the most effective. 
 * The evaluation metric used in this study is a Bilingual Assessment Study or BELU. Due to their ability to accurately score matches with automatically translated language, these scoring models are widely used. 
-•	 Lastly, predict the answer to the question accurately.
+* Lastly, predict the answer to the question accurately.
