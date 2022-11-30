@@ -15,3 +15,14 @@ The languages Hindi and Tamil are native to India, but these two languages are s
 
 The answers would have to be given in both languages, the original language the question was asked in, and, finally, in English. It would solve the problem of the language barrier between various languages. By working on this project, we intend to use various NLP techniques and state-of-art models to predict the answers and, again, extensive experience while working towards completing this project successfully.
 
+### Objectives
+
+The following are the main goals that this project intends to achieve: 
+•	Finding a data set that is appropriate and contains the necessary quantity and quality of data is the first step in adequately training a model. 
+•	Use exploratory data analysis to thoroughly evaluate the provided text data to establish a strong foundation for using various NLP algorithms. At this point, the knowledge and viewpoints should aid in creating a solid model. 
+•	In the EDA stage,  accurately measure the data set and select the most effective preprocessing method.
+•	The data set for the model is split between training and testing. 
+•	Data preparation eliminates null values from the dataset using techniques like tokenization, stemming, and lemmatization. 
+•	Finally, you can experiment with a few potential models while building the model.  Compare the results of each model to determine which is the most effective. 
+•	The evaluation metric used in this study is a Bilingual Assessment Study or BELU. Due to their ability to accurately score matches with automatically translated language, these scoring models are widely used. 
+•	 Lastly, predict the answer to the question accurately.
